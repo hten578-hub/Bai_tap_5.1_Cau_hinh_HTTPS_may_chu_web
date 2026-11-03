@@ -19,7 +19,7 @@ Bài tập thực hành cài đặt SSL bằng Let's Encrypt và cấu hình Vir
 
 ## Nội dung
 
-- `Bao-cao-SSL-LetsEncrypt.docx` — Báo cáo thực hành
+- `Nguyễn Thị Huệ Minh - 23810310177 - Bao-cao-SSL-LetsEncrypt.docx` — Báo cáo thực hành
 - `auto-ssl.sh` — Script bash tự động hoá cài SSL
 
 ## Kết quả
